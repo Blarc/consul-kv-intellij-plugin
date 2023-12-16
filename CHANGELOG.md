@@ -1,7 +1,6 @@
-<!-- Keep a Changelog guide -> https://keepachangelog.com -->
-
-# consul-kv-intellij-plugin Changelog
+# Changelog
 
 ## [Unreleased]
+
 ### Added
 - Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
